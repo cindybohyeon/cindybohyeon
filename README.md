@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-
+<img src="https://img.shields.io/badge/AmazonAws-orange?style=flat-square&logo=Amazon-Aws&logoColor=white"/></a>
 <!--   <br>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
      -->
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="mailto:980926r"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=980926a@gmail.com"/></a>&nbsp
-  <a href="https://bohyeonstudy.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bohyeonstudy.tistory.com//"/></a>&nbsp
+  <a href="https://bohyeonstudy.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=blogger&logoColor=white" ></a>
 </p>
 
 <br>
